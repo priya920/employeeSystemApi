@@ -1,0 +1,25 @@
+E:\New folder\fullstack\FS.Common\bin\Debug\net6.0\FS.Common.deps.json
+E:\New folder\fullstack\FS.Common\bin\Debug\net6.0\FS.Common.dll
+E:\New folder\fullstack\FS.Common\bin\Debug\net6.0\FS.Common.pdb
+E:\New folder\fullstack\FS.Common\obj\Debug\net6.0\FS.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\fullstack\FS.Common\obj\Debug\net6.0\FS.Common.AssemblyInfoInputs.cache
+E:\New folder\fullstack\FS.Common\obj\Debug\net6.0\FS.Common.AssemblyInfo.cs
+E:\New folder\fullstack\FS.Common\obj\Debug\net6.0\FS.Common.csproj.CoreCompileInputs.cache
+E:\New folder\fullstack\FS.Common\obj\Debug\net6.0\FS.Common.dll
+E:\New folder\fullstack\FS.Common\obj\Debug\net6.0\refint\FS.Common.dll
+E:\New folder\fullstack\FS.Common\obj\Debug\net6.0\FS.Common.pdb
+E:\New folder\fullstack\FS.Common\obj\Debug\net6.0\ref\FS.Common.dll
+E:\New folder\fullstack api\FS.Common\bin\Debug\net6.0\FS.Common.deps.json
+E:\New folder\fullstack api\FS.Common\bin\Debug\net6.0\FS.Common.dll
+E:\New folder\fullstack api\FS.Common\bin\Debug\net6.0\FS.Common.pdb
+E:\New folder\fullstack api\FS.Common\obj\Debug\net6.0\FS.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\fullstack api\FS.Common\obj\Debug\net6.0\FS.Common.AssemblyInfoInputs.cache
+E:\New folder\fullstack api\FS.Common\obj\Debug\net6.0\FS.Common.AssemblyInfo.cs
+E:\New folder\fullstack api\FS.Common\obj\Debug\net6.0\FS.Common.csproj.CoreCompileInputs.cache
+E:\New folder\fullstack api\FS.Common\obj\Debug\net6.0\FS.Common.dll
+E:\New folder\fullstack api\FS.Common\obj\Debug\net6.0\refint\FS.Common.dll
+E:\New folder\fullstack api\FS.Common\obj\Debug\net6.0\FS.Common.pdb
+E:\New folder\fullstack api\FS.Common\obj\Debug\net6.0\ref\FS.Common.dll
+E:\New folder\fullstack api\FS.Common\obj\Debug\net6.0\FS.Common.csproj.AssemblyReference.cache
+E:\New folder\fullstack api\FS.Common\bin\Debug\net6.0\FS.Common.runtimeconfig.json
+E:\New folder\fullstack api\FS.Common\obj\Debug\net6.0\FS.Common.genruntimeconfig.cache

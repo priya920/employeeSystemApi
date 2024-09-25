@@ -1,0 +1,36 @@
+E:\New folder\fullstack\FS.Service\bin\Debug\net6.0\FS.Service.deps.json
+E:\New folder\fullstack\FS.Service\bin\Debug\net6.0\FS.Service.dll
+E:\New folder\fullstack\FS.Service\bin\Debug\net6.0\FS.Service.pdb
+E:\New folder\fullstack\FS.Service\bin\Debug\net6.0\FS.Common.dll
+E:\New folder\fullstack\FS.Service\bin\Debug\net6.0\FS.DataAccess.dll
+E:\New folder\fullstack\FS.Service\bin\Debug\net6.0\FS.Common.pdb
+E:\New folder\fullstack\FS.Service\bin\Debug\net6.0\FS.DataAccess.pdb
+E:\New folder\fullstack\FS.Service\obj\Debug\net6.0\FS.Service.csproj.AssemblyReference.cache
+E:\New folder\fullstack\FS.Service\obj\Debug\net6.0\FS.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\fullstack\FS.Service\obj\Debug\net6.0\FS.Service.AssemblyInfoInputs.cache
+E:\New folder\fullstack\FS.Service\obj\Debug\net6.0\FS.Service.AssemblyInfo.cs
+E:\New folder\fullstack\FS.Service\obj\Debug\net6.0\FS.Service.csproj.CoreCompileInputs.cache
+E:\New folder\fullstack\FS.Service\obj\Debug\net6.0\FS.Service.csproj.CopyComplete
+E:\New folder\fullstack\FS.Service\obj\Debug\net6.0\FS.Service.dll
+E:\New folder\fullstack\FS.Service\obj\Debug\net6.0\refint\FS.Service.dll
+E:\New folder\fullstack\FS.Service\obj\Debug\net6.0\FS.Service.pdb
+E:\New folder\fullstack\FS.Service\obj\Debug\net6.0\ref\FS.Service.dll
+E:\New folder\fullstack api\FS.Service\bin\Debug\net6.0\FS.Service.deps.json
+E:\New folder\fullstack api\FS.Service\bin\Debug\net6.0\FS.Service.dll
+E:\New folder\fullstack api\FS.Service\bin\Debug\net6.0\FS.Service.pdb
+E:\New folder\fullstack api\FS.Service\bin\Debug\net6.0\FS.Common.dll
+E:\New folder\fullstack api\FS.Service\bin\Debug\net6.0\FS.DataAccess.dll
+E:\New folder\fullstack api\FS.Service\bin\Debug\net6.0\FS.Common.pdb
+E:\New folder\fullstack api\FS.Service\bin\Debug\net6.0\FS.DataAccess.pdb
+E:\New folder\fullstack api\FS.Service\obj\Debug\net6.0\FS.Service.csproj.AssemblyReference.cache
+E:\New folder\fullstack api\FS.Service\obj\Debug\net6.0\FS.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\fullstack api\FS.Service\obj\Debug\net6.0\FS.Service.AssemblyInfoInputs.cache
+E:\New folder\fullstack api\FS.Service\obj\Debug\net6.0\FS.Service.AssemblyInfo.cs
+E:\New folder\fullstack api\FS.Service\obj\Debug\net6.0\FS.Service.csproj.CoreCompileInputs.cache
+E:\New folder\fullstack api\FS.Service\obj\Debug\net6.0\FS.Service.csproj.CopyComplete
+E:\New folder\fullstack api\FS.Service\obj\Debug\net6.0\FS.Service.dll
+E:\New folder\fullstack api\FS.Service\obj\Debug\net6.0\refint\FS.Service.dll
+E:\New folder\fullstack api\FS.Service\obj\Debug\net6.0\FS.Service.pdb
+E:\New folder\fullstack api\FS.Service\obj\Debug\net6.0\ref\FS.Service.dll
+E:\New folder\fullstack api\FS.Service\bin\Debug\net6.0\FS.Service.runtimeconfig.json
+E:\New folder\fullstack api\FS.Service\obj\Debug\net6.0\FS.Service.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+E:\New folder\fullstack\FS.DataAccess\bin\Debug\net6.0\FS.DataAccess.deps.json
+E:\New folder\fullstack\FS.DataAccess\bin\Debug\net6.0\FS.DataAccess.dll
+E:\New folder\fullstack\FS.DataAccess\bin\Debug\net6.0\FS.DataAccess.pdb
+E:\New folder\fullstack\FS.DataAccess\bin\Debug\net6.0\FS.Common.dll
+E:\New folder\fullstack\FS.DataAccess\bin\Debug\net6.0\FS.Common.pdb
+E:\New folder\fullstack\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.csproj.AssemblyReference.cache
+E:\New folder\fullstack\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\fullstack\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.AssemblyInfoInputs.cache
+E:\New folder\fullstack\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.AssemblyInfo.cs
+E:\New folder\fullstack\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.csproj.CoreCompileInputs.cache
+E:\New folder\fullstack\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.csproj.CopyComplete
+E:\New folder\fullstack\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.dll
+E:\New folder\fullstack\FS.DataAccess\obj\Debug\net6.0\refint\FS.DataAccess.dll
+E:\New folder\fullstack\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.pdb
+E:\New folder\fullstack\FS.DataAccess\obj\Debug\net6.0\ref\FS.DataAccess.dll
+E:\New folder\fullstack api\FS.DataAccess\bin\Debug\net6.0\FS.DataAccess.deps.json
+E:\New folder\fullstack api\FS.DataAccess\bin\Debug\net6.0\FS.DataAccess.dll
+E:\New folder\fullstack api\FS.DataAccess\bin\Debug\net6.0\FS.DataAccess.pdb
+E:\New folder\fullstack api\FS.DataAccess\bin\Debug\net6.0\FS.Common.dll
+E:\New folder\fullstack api\FS.DataAccess\bin\Debug\net6.0\FS.Common.pdb
+E:\New folder\fullstack api\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.csproj.AssemblyReference.cache
+E:\New folder\fullstack api\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\fullstack api\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.AssemblyInfoInputs.cache
+E:\New folder\fullstack api\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.AssemblyInfo.cs
+E:\New folder\fullstack api\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.csproj.CoreCompileInputs.cache
+E:\New folder\fullstack api\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.csproj.CopyComplete
+E:\New folder\fullstack api\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.dll
+E:\New folder\fullstack api\FS.DataAccess\obj\Debug\net6.0\refint\FS.DataAccess.dll
+E:\New folder\fullstack api\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.pdb
+E:\New folder\fullstack api\FS.DataAccess\obj\Debug\net6.0\ref\FS.DataAccess.dll
+E:\New folder\fullstack api\FS.DataAccess\bin\Debug\net6.0\FS.DataAccess.runtimeconfig.json
+E:\New folder\fullstack api\FS.DataAccess\obj\Debug\net6.0\FS.DataAccess.genruntimeconfig.cache
